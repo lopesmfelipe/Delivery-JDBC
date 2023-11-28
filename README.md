@@ -5,9 +5,9 @@ This is a personal project, made in order to learn more about database connectio
 
 The project is divided into 3 packages:
 
-- App package | Program Class: main class that makes a query to the database using "INNER JOIN", then scrolls through the result of that query that is in "table" format and transforms the rows of that table into Objects.
+- App package - Program Class: main class that makes a query to the database using "INNER JOIN", then scrolls through the result of that query that is in "table" format and transforms the rows of that table into Objects.
 
-- db package | DB class: contains the database connection class. (It's a local db)
+- DB package - DB class: contains the database connection class. (It's a local db)
 
 - entities package: package that contains the classes:
   - Order
