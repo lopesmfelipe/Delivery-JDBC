@@ -17,7 +17,7 @@ The project is divided into 3 packages:
  Where the 'Order' and 'Product' classes will be instantiated according to the rows returned by the database.
 
 
-### By doing this project I was able to learn more about different topics and concepts, such as:
+## By doing this project I was able to learn more about different topics and concepts, such as:
 
 - Primary key, foreign key
 - DDL (create table, alter table)
