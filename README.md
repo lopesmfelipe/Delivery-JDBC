@@ -1,6 +1,6 @@
 # Delivery-JDBC-System
 
-This is a personal project, made in order to learn more about database connection in java. It's a Delivery program, using JDBC and PostgreSQL database.
+It's a Delivery program, using JDBC and PostgreSQL database.
 
 
 The project is divided into 3 packages:
@@ -21,6 +21,7 @@ The project is divided into 3 packages:
 
 - Primary key, foreign key
 - DDL (create table, alter table)
+- Database connection
 - SQL
   - INSERT
   - SELECT
