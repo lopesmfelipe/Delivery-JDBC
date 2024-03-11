@@ -23,6 +23,7 @@ The project is divided into 3 packages:
 - DDL (create table, alter table)
 - Database connection
 - SQL
+- 
   - INSERT
   - SELECT
   - INNER JOIN
